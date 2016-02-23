@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memeApp/ViewController.swift"
+            timestampString = "477901292.795694"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memeApp/ViewController.swift"
+            timestampString = "477901697.989526"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "pickAnImageFromCamera(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memeApp/sentMemesCollectionViewController.swift"
+            timestampString = "477907002.972629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memeApp/sentMemesCollectionViewController.swift"
+            timestampString = "477907002.972629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "sentMemesCollectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesCollectionViewController.memes.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;memeApp.Meme&gt;&gt;"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesCollectionViewController.swift"
+                  timestampString = "477817236.861189"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesCollectionViewController.memes.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;memeApp.Meme&gt;&gt;"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesCollectionViewController.swift"
+                  timestampString = "477817236.861751"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesCollectionViewController.init (memeApp.sentMemesCollectionViewController.Type)(collectionViewLayout : __ObjC.UICollectionViewLayout) -&gt; memeApp.sentMemesCollectionViewController"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesCollectionViewController.swift"
+                  timestampString = "477817236.861945"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesCollectionViewController.init (memeApp.sentMemesCollectionViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; memeApp.sentMemesCollectionViewController"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesCollectionViewController.swift"
+                  timestampString = "477817236.862186"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesCollectionViewController.init (memeApp.sentMemesCollectionViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;memeApp.sentMemesCollectionViewController&gt;"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesCollectionViewController.swift"
+                  timestampString = "477817236.862487"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memeApp/sentMemesTableViewController.swift"
+            timestampString = "477897865.386781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memeApp/sentMemesTableViewController.swift"
+            timestampString = "477825480.247267"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "sentMemesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesTableViewController.topLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesTableViewController.swift"
+                  timestampString = "477825524.2669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesTableViewController.topLabel.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesTableViewController.swift"
+                  timestampString = "477825524.267503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesTableViewController.init (memeApp.sentMemesTableViewController.Type)(style : __C.UITableViewStyle) -&gt; memeApp.sentMemesTableViewController"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesTableViewController.swift"
+                  timestampString = "477825524.267914"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesTableViewController.init (memeApp.sentMemesTableViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; memeApp.sentMemesTableViewController"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesTableViewController.swift"
+                  timestampString = "477825524.268394"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "memeApp.sentMemesTableViewController.init (memeApp.sentMemesTableViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;memeApp.sentMemesTableViewController&gt;"
+                  moduleName = "memeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhwinnie/Desktop/memeApp/memeApp/sentMemesTableViewController.swift"
+                  timestampString = "477825524.268734"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memeApp/sentMemesCollectionViewController.swift"
+            timestampString = "477907002.972629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memeApp/sentMemesCollectionViewController.swift"
+            timestampString = "477907002.972629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
