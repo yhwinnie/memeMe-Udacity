@@ -16,15 +16,9 @@ class memeDetailViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .Edit, target: self, action: "editMeme")
-        
-        
+        var myCustomBackButtonItem:UIBarButtonItem = UIBarButtonItem()
+        myCustomBackButtonItem.title = "Sent Memes"
+        self.navigationController?.navigationBar.topItem?.backBarButtonItem = myCustomBackButtonItem
         self.imageView.image = meme.memedImage
-        
-    
-        
-    
-    
-    
-
-}
+    }
 }

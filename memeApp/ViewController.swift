@@ -23,12 +23,27 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     //Choosing picture from album
     @IBAction func pickAnIamge(sender: AnyObject) {
-        let pickerController = UIImagePickerController()
-        pickerController.delegate = self
-        pickerController.sourceType = UIImagePickerControllerSourceType.PhotoLibrary
-        presentViewController(pickerController, animated: true, completion: nil)
+
+        pickerControl().sourceType = UIImagePickerControllerSourceType.PhotoLibrary
+        presentControl()
     }
     
+    // Call the camera
+    @IBAction func pickAnImageFromCamera(sender: AnyObject) {
+
+        pickerControl().sourceType = UIImagePickerControllerSourceType.Camera
+        presentControl()
+    }
+    
+    func pickerControl() -> UIImagePickerController {
+        let pickerController = UIImagePickerController()
+        pickerController.delegate = self
+        return pickerController
+    }
+    
+    func presentControl () {
+        presentViewController(pickerControl(), animated: true, completion: nil)
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -47,6 +62,8 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         textFieldSetting(bottomTextField)
  
     }
+    
+    
     
     
     func textFieldSetting(textField: UITextField) {
@@ -144,13 +161,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         ImagePicker.image = image
     }
     
-    // Call the camera
-    @IBAction func pickAnImageFromCamera(sender: AnyObject) {
-        let pickerController = UIImagePickerController()
-        pickerController.delegate = self
-        pickerController.sourceType = UIImagePickerControllerSourceType.Camera
-        presentViewController(pickerController, animated: true, completion: nil)
-    }
+
     
     // Keyboard hides when tapping anywhere
     override func touchesBegan(touches: Set<UITouch>, withEvent event: UIEvent?){
